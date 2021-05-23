@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Ro0t-set/Ro0t-set** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ro0t-set&hide=contribs,prs)
+
