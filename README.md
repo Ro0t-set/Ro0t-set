@@ -6,7 +6,7 @@
 ```
 $ whoami
   
-> Passionate Computer Science student dedicated to the pursuit of clean and elegant
+> Passionate Computer Science Engineer dedicated to the pursuit of clean and elegant
 code as a cornerstone of software craftsmanship.
 
 Specializing in distributed systems and microservices, I view coding not just
@@ -25,7 +25,7 @@ that not only function seamlessly but also showcase the beauty of well-crafted c
 
 ## ☢ My Activities
 
-- 🔭 Currently studying **Engineering and Computer Science @ Università di Bologna**
+💼 Freelance Software Developer specializing in microservices, distributed systems, and clean architecture.
 
 ----
 
