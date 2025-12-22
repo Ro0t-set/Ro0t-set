@@ -71,15 +71,6 @@ I build backend systems, event-driven platforms, real-time applications, and han
 
 ---
 
-## 📎 Highlighted Projects
-
-* **Piperchat** – Real-time Discord-style platform built with microservices
-* **Piper-KT** – Full rewrite in Kotlin + Kubernetes
-* **LoRa Maritime Social IoT** – Research work published in 2023
-* Multiple client projects in distributed systems, backend engineering, and DevOps
-
----
-
 ## 🌍 Connect with Me
 
 <p>
