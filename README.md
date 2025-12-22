@@ -93,3 +93,13 @@ I build backend systems, event-driven platforms, real-time applications, and han
 ---
 
 > Always open to meaningful projects, challenging architectures, and well-written code.
+
+
+---
+
+<div align="center">
+<a href="https://github.com/Ro0t-set">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ro0t-set&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ro0t-set&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ro0t-set&theme=2077" height="180em" />
+</div>
